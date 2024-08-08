@@ -21,7 +21,7 @@ export default function Page() {
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-        Experience the power of AI with PrepBot! Take AI-driven mock interviews, receive detailed feedback, and correct your answers to enhance your performance
+        Experience the power of AI with PrepGemini! Take AI-driven mock interviews, receive detailed feedback, and correct your answers to enhance your performance
         </p>
       </div>
     </section>
