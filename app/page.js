@@ -26,7 +26,7 @@ export default function Home() {
           cursor: 'pointer'  
         }}
       >
-        Welcome to PrepBot!
+        Welcome to PrepGemini!
       </h1>
     </div>
   );

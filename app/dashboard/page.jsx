@@ -8,7 +8,7 @@ function Dashboard() {
     <div className='p-1'>
 
 
-     <h2 className='font-bold text-3xl mt-4 text-blue-900'>Welcome to PrepBot!</h2>
+     <h2 className='font-bold text-3xl mt-4 text-blue-900'>Welcome to PrepGemini!</h2>
      <h2 className='text-gray-600 mt-2'>Click on Add New to attend a new session</h2>
 
      <div className='grid grid-cols-1 md:grid-cols-3 my-5'>

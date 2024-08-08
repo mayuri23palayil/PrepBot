@@ -18,7 +18,7 @@ function Header() {
         <ul className=' hidden md:flex gap-6'>
             <li onClick={()=>router.replace('/dashboard')} className='hover:text-blue-800 hover:font-bold transition-all cursor-pointer ml-[-50px] text-blue-800 text-3xl font-bold'
             
-            >PrepBot-By Mayuri Palayil</li>   
+            >PrepGemini-By Mayuri Palayil</li>   
              
            
           
